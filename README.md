@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is adit
 #### and I am a final grade student and trying to scavenge knowledge on the internet.
-![and I am a final grade student and trying to scavenge knowledge on the internet.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![and I am a final grade student and trying to scavenge knowledge on the internet.]
 
 I like to learn programming languages, like to modify projects, my hobbies are reading, cycling if im remember, and traveling
 
