@@ -1,5 +1,6 @@
-## Hi there this is my profile and u can call me Adit :wave:
-### and I am a final grade student and trying to scavenge knowledge on the internet.
+## Hi there this is my profile :wave:
+### You can call me **Adit**
+### And I am a final grade student and trying to scavenge knowledge on the internet.
 
 I like to learn programming languages, like to modify projects, my hobbies are reading, cycling if im remember, and traveling
 
