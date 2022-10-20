@@ -1,4 +1,4 @@
-## [![](https://visitcount.itsvg.in/api?id=aditrachman&icon=8&color=0)](https://visitcount.itsvg.in)  hi i'm adit   
+## [![](https://visitcount.itsvg.in/api?id=aditrachman&icon=8&color=0)](https://visitcount.itsvg.in)  Hi i'm adit   
 
 only guys who like to collect victorinox, watch anime, read manga, and I'm interested in the R language, please let me know if there's anything I can help with R (actually my R language is still a beginner 😆).
 and I'm currently developing an online girlfriend rental application, check it out if you're interested http://rental-pacar.vercel.app/
