@@ -1,6 +1,5 @@
-## Subtitle:
-hi aku adit & aku
-cuma mas mas yang doyan anime
+## hi aku adit
+cuma mas mas yang doyan anime sama vtuber 😶 oiya aku tertarik di R kalau ada yang tertarik gas.
 
 
 ## eyy
