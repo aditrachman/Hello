@@ -1,4 +1,3 @@
-## [![](https://visitcount.itsvg.in/api?id=aditrachman&icon=8&color=0)](https://visitcount.itsvg.in)  Hi i'm adit   
 ```python
-print("hello  botc")
+print("hai manusia")
 ```
